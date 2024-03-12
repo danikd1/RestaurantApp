@@ -1,0 +1,8 @@
+openapi: "3.0.3"
+info:
+  title: "RestaurantAppbrat API"
+  description: "RestaurantAppbrat API"
+  version: "1.0.0"
+servers:
+- url: "https://RestaurantAppbrat"
+paths: {}
